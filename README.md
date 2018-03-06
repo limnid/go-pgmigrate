@@ -1,4 +1,5 @@
 # Go PGMigrate
+A version migration tool, written in Golang
 
 **Example**
 
