@@ -1,0 +1,5 @@
+{
+  "migration_path": "/migrations",
+  "db_driver": "postgres",
+  "db_url": "postgres://user:pass@localhost/mydb?sslmode=disable"
+}
